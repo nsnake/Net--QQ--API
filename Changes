@@ -1,0 +1,6 @@
+Revision history for Perl extension Net::QQ::API.
+
+0.01  Fri Nov 15 15:31:36 2013
+	- original version; created by h2xs 1.23 with options
+		-X -n Net::QQ::API -b 5.8.0
+

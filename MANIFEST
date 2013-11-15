@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Net-QQ-API.t
+lib/Net/QQ/API.pm
